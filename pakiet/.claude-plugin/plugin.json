@@ -1,0 +1,9 @@
+{
+  "name": "wycena-automatyzacji",
+  "version": "0.1.0",
+  "description": "Wycenia budowe automatyzacji, agenta AI lub chatbota dla klienta. Przepytuje o proces i wartosc, dobiera kategorie, podaje widelki cenowe zakotwiczone w polskim rynku 2026, model rozliczenia (jednorazowo + abonament) i szkic oferty w strukturze faza jako produkt.",
+  "author": {
+    "name": "Lukasz Hodorowicz",
+    "url": "https://lukaszhodorowicz.pl"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wycena-automatyzacji",
+  "owner": {
+    "name": "Lukasz Hodorowicz"
+  },
+  "plugins": [
+    {
+      "name": "wycena-automatyzacji",
+      "source": "./pakiet",
+      "description": "Agent do wyceny automatyzacji i agentow AI: przepytuje o proces i wartosc, dobiera kategorie, podaje widelki polskiego rynku 2026, model rozliczenia i szkic oferty"
+    }
+  ]
+}
