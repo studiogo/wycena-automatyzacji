@@ -1,5 +1,9 @@
 # Wycena automatyzacji
 
+[![licencja MIT](https://img.shields.io/github/license/studiogo/wycena-automatyzacji?style=flat-square)](LICENSE)
+[![ostatnia zmiana](https://img.shields.io/github/last-commit/studiogo/wycena-automatyzacji?style=flat-square)](https://github.com/studiogo/wycena-automatyzacji/commits/main)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-wtyczka-D97757?style=flat-square)
+
 Wtyczka do Claude Code z kursu **„Twój pierwszy agent AI"** (Studio GO).
 
 Agent do wyceny automatyzacji, agentów AI i chatbotów. Zamiast rzucać kwotą z sufitu,
@@ -34,6 +38,16 @@ obejrzeniem zakresu wiąże wykonawcę na całą robotę i zwykle jest zaniżona
 - **Reguła rozstrzygnięcia:** z dwóch liczb bierzesz wyższą, nie środek.
 - Dokłada trzy warstwy, o których początkujący zapomina: płatny audyt przed budową,
   abonament za utrzymanie, koszty bieżące po stronie klienta.
+
+## Wycena wyszła nie tak albo masz świeższe dane
+
+[Załóż zgłoszenie](https://github.com/studiogo/wycena-automatyzacji/issues/new/choose) — są dwa szablony: na nietrafioną wycenę i na nowe dane cenowe. Przy nietrafionej podaj opis zlecenia, kwotę agenta i kwotę właściwą.
+
+Zasady przysyłania widełek: [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Licencja
+
+MIT — [LICENSE](LICENSE).
 
 ---
 
